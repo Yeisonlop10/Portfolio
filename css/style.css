@@ -30,12 +30,12 @@ scroll = normal
   width: 100%;
   overflow: hidden;
   /*background-image:url('../img/image1.jpg');*/
-  height: 80%;
+  height: 100%;
 }
 
 .pimg1 video {
   min-width: 100%;
-  min-height: 100%;
+  height: 100%;
 }
 
 .pimg2 {
