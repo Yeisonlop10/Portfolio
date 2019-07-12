@@ -1,2 +1,2 @@
 # Portfolio
-This is my Portfolio where i show som eof my projects and skills
+This is my Portfolio where I show some of my projects and skills.
