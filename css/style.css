@@ -242,6 +242,5 @@ and (orientation : landscape){
     background-attachment: scroll;
     background-size: cover;
     overflow: hidden;
-    min-height: 100%;
     }
 }
