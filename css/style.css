@@ -131,7 +131,7 @@ scroll = normal
   .pimg1 video {
   min-width: 20%;
   min-height: 100%;
-}
+  }
 }
 @media (max-width: 768px) {
   .pimg1,
@@ -145,5 +145,20 @@ scroll = normal
   .pimg1 video {
   min-width: 50%;
   min-height: 100%;
+  }
 }
+
+@media (max-width: 1024px) {
+  .pimg1,
+  .pimg2,
+  .pimg3,
+  .pimg4,
+  .pimg5 {
+    background-attachment: scroll;
+    background-size: cover;
+  },
+  .pimg1 video {
+  min-width: 50%;
+  min-height: 100%;
+  }
 }
