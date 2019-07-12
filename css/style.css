@@ -134,7 +134,13 @@ and (max-device-width : 736px) {
     width: 100%;
     overflow: hidden;
     min-height: 100%;
-    }
+    },
+  .ptext .border1 {
+    font-size: 10px;
+    },
+  .ptext h3 {
+    font-size: 10px;
+    },
   }
 @media only screen 
 and (min-device-width : 768px) 
