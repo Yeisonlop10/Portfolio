@@ -120,7 +120,9 @@ scroll = normal
   background-color: transparent;
 }
 
-@media (max-width: 414px) {
+@media only screen 
+and (min-device-width : 414px) 
+and (max-device-width : 736px) {
 
   .ptext .border1 {
     font-size: 10px;
