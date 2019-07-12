@@ -39,11 +39,11 @@ scroll = normal
 }
 
 .pimg2 {
-  background-image: url("../img/image2.jpg");
+  background-image: url("https://github.com/Yeisonlop10/Portfolio/blob/master/img/image2.JPG");
   min-height: 400px;
 }
 .pimg3 {
-  background-image: url("../img/image3.jpg");
+  background-image: url("https://github.com/Yeisonlop10/Portfolio/blob/master/img/image3.JPG");
   min-height: 400px;
 }
 .pimg4 {
@@ -51,7 +51,7 @@ scroll = normal
   min-height: 400px;
 }
 .pimg5 {
-  background-image: url("../img/image1.jpg");
+  background-image: url("https://github.com/Yeisonlop10/Portfolio/blob/master/img/image4.JPG");
   min-height: 400px;
 }
 .section {
