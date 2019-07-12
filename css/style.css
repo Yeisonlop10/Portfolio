@@ -177,7 +177,7 @@ and (max-device-width : 1024px){
   .pimg4,
   .pimg5 {
     background-attachment: scroll;
-    background-size: cover;
+    background-size: auto;
     overflow: hidden;
     min-height: 100%;
     }
