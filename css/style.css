@@ -133,7 +133,7 @@ scroll = normal
   min-height: 100%;
 }
 }
-@media (max-width: 568px) {
+@media (max-width: 768px) {
   .pimg1,
   .pimg2,
   .pimg3,
