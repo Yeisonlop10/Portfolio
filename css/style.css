@@ -134,7 +134,7 @@ and (max-device-width : 736px)
     background-attachment: scroll;
     background-size: auto;
     overflow: hidden;
-    min-height: 736px;
+    height: 100%;
     },
   .ptext .border1 {
     font-size: 5px;
