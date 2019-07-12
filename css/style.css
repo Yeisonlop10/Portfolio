@@ -174,15 +174,10 @@ and (max-device-width : 1024px)  {
   .pimg4,
   .pimg5 {
     background-attachment: scroll;
-  }
-}
-
-@media (max-width: 568px) {
-  .pimg1,
-  .pimg2,
-  .pimg3,
-  .pimg4,
-  .pimg5 {
-    background-attachment: scroll;
+    width: 100%;
+    overflow: hidden;
+    min-height: 100%;
+    },
+  
   }
 }
