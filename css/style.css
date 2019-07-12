@@ -132,6 +132,7 @@ and (max-device-width : 736px)
   .pimg4,
   .pimg5 {
     background-attachment: scroll;
+    background-size: auto;
     overflow: hidden;
     min-height: 100%;
     },
@@ -152,6 +153,7 @@ and (orientation : landscape){
   .pimg4,
   .pimg5 {
     background-attachment: scroll;
+    background-size: auto;
     width: 100%;
     overflow: hidden;
     min-height: 100%;
