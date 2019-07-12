@@ -178,6 +178,9 @@ and (max-device-width : 1024px)  {
     overflow: hidden;
     min-height: 100%;
     },
-  
+  .pimg1 video {
+  min-width: 100%;
+  min-height: 100%;
+    }
   }
 }
