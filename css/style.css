@@ -120,9 +120,37 @@ scroll = normal
   background-color: transparent;
 }
 
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) {
+  .pimg1,
+  .pimg2,
+  .pimg3,
+  .pimg4,
+  .pimg5 {
+    background-attachment: scroll;
+  },
+  .ptext .border1 {
+    font-size: 10px;
+    },
+  .ptext h1{
+      font-size: 30px;
+     line-height: 8px;
+    },
+  .ptext h3{
+    font-size: 8px;
+    left: 5px;
+    }
+}
+
 @media only screen 
 and (min-device-width : 414px) 
 and (max-device-width : 736px) {
+  .pimg1 video 
+  {
+    
+  },
   .pimg1,
   .pimg2,
   .pimg3,
