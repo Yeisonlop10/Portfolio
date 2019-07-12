@@ -133,8 +133,6 @@ and (max-device-width : 736px)
   .pimg5 {
     background-attachment: scroll;
     background-size: auto;
-    overflow: hidden;
-    height: 100%;
     },
   .ptext .border1 {
     font-size: 5px;
@@ -178,8 +176,6 @@ and (max-device-width : 1024px){
   .pimg5 {
     background-attachment: scroll;
     background-size: auto;
-    overflow: hidden;
-    min-height: 100%;
     }
 }
 @media only screen 
