@@ -242,5 +242,9 @@ and (orientation : landscape){
     background-attachment: scroll;
     background-size: cover;
     overflow: hidden;
-    }
+    },
+  .pimg1 video {
+  min-width: 100%;
+  min-height: 100%;
+}
 }
