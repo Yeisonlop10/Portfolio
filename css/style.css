@@ -174,7 +174,7 @@ and (max-device-width : 736px)
     },
   .pimg1 video {
   min-width: 100%;
-  min-height: 100%;
+  min-height: 150%;
     },
   .ptext .border1 {
     font-size: 5px;
@@ -221,7 +221,7 @@ and (max-device-width : 1024px){
     },
   .pimg1 video {
   min-width: 100%;
-  min-height: 100%;
+  min-height: 150%;
   },
   .pimg1 {
   width: 100%;
