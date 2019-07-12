@@ -226,7 +226,7 @@ and (max-device-width : 1024px){
     },
   .pimg5 {
     background-attachment: scroll;
-    background-size: 100%;
+    background-size: cover;
     },
   .pimg1 video {
   min-width: 100%;
