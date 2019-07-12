@@ -222,13 +222,7 @@ and (max-device-width : 1024px){
   .pimg1 video {
   min-width: 100%;
   min-height: 150%;
-  },
-  .pimg1 {
-  width: 100%;
-  overflow: hidden;
-  /*background-image:url('../img/image1.jpg');*/
-  min-height: 100%;
-}
+  }
 }
 @media only screen 
 and (min-device-width : 768px) 
