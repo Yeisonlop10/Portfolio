@@ -176,7 +176,13 @@ and (max-device-width : 1024px){
   .pimg5 {
     background-attachment: scroll;
     background-size: auto;
-    }
+    },
+  .pimg1 {
+  width: 100%;
+  overflow: hidden;
+  /*background-image:url('../img/image1.jpg');*/
+  min-height: 100%;
+}
 }
 @media only screen 
 and (min-device-width : 768px) 
