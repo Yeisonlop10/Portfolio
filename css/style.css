@@ -27,8 +27,8 @@ scroll = normal
 }
 
 .pimg1 {
-  background-image:url('../img/giphy.gif');
-  min-height: 100%;
+  background-image: url('../img/giphy.gif');
+  min-height: 400px;
 }
 
 .pimg1 video {
