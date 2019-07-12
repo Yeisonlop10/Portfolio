@@ -124,7 +124,8 @@ scroll = normal
 
 @media only screen 
 and (min-device-width : 414px) 
-and (max-device-width : 736px) {
+and (max-device-width : 736px)
+and (orientation : landscape){
   .pimg1,
   .pimg2,
   .pimg3,
@@ -144,7 +145,8 @@ and (max-device-width : 736px) {
   }
 @media only screen 
 and (min-device-width : 768px) 
-and (max-device-width : 1024px)  { 
+and (max-device-width : 1024px) 
+and (orientation : landscape){ 
   .pimg1,
   .pimg2,
   .pimg3,
