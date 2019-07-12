@@ -29,7 +29,7 @@ scroll = normal
 .pimg1 {
   width: 100%;
   overflow: hidden;
-  /*background-image:url('../img/image1.jpg');*/
+  background-image:url('../img/giphy.gif');
   min-height: 100%;
 }
 
