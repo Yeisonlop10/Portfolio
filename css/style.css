@@ -167,11 +167,13 @@ and (max-device-width : 736px)
   .pimg1,
   .pimg2,
   .pimg3,
-  .pimg4,
-  .pimg5 {
+  .pimg4 {
     background-attachment: scroll;
     background-size: auto;
     },
+  .pimg5 {
+    background-attachment: scroll;
+    background-size: 100%;
   .pimg1 video {
   min-width: 100%;
   min-height: 150%;
@@ -214,10 +216,13 @@ and (max-device-width : 1024px){
   .pimg1,
   .pimg2,
   .pimg3,
-  .pimg4,
-  .pimg5 {
+  .pimg4 {
     background-attachment: scroll;
     background-size: auto;
+    },
+  .pimg5 {
+    background-attachment: scroll;
+    background-size: 100%;
     },
   .pimg1 video {
   min-width: 100%;
