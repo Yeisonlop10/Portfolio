@@ -125,7 +125,7 @@ scroll = normal
   }
   .pimg1 {
     background-image: url("../img/giphy1.gif");
-    background-sice: cover;
+    background-size: cover;
   }
 
   .pimg2,
